@@ -1,2 +1,2 @@
 # IRE1-MD-simulation
-Environment set up
+This is the notebook for IRE1 simulation
