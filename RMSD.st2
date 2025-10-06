@@ -1,0 +1,7 @@
+Keywords = [
+  { RMSD = {
+      ASL   = "protein and chain A and backbone"
+      FitBy = "protein and chain A and backbone"
+      Frame = 0
+    } }
+]
