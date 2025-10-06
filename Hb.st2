@@ -1,0 +1,7 @@
+Keywords = [
+    { HBonds = {
+	    ASL1 = "protein and chain A"
+	    ASL2 = "protein and chain C"
+        }
+    }
+]

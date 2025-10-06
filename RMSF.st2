@@ -1,0 +1,9 @@
+Keywords = [
+  {RMSF = {
+      ASL  = "protein and chain A and sidechain"
+      FitBy = "protein and chain A and sidechain"
+      Frame = 0
+      Tab = "p_rmsf_tab"
+    }
+  }
+]

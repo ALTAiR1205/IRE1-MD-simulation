@@ -1,0 +1,7 @@
+Keywords = [
+  {SA_Surface_Area = {
+      ASL  = "protein and chain A"
+      Exclude_ASL = "water"
+    }
+  }
+]
